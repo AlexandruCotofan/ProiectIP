@@ -1,8 +1,6 @@
 import './index.css';
 
 function Registration() {
-    const title = 'Istoric';
-
     return (
         <div className="registration">
             <form action="" className="registration__form">
